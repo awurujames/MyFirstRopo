@@ -1,0 +1,3 @@
+C:\codebitacademyfolder\C#\session3\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\session3\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\session3\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.AssemblyInfo.cs

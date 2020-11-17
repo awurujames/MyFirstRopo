@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\session3\Account3\bin\Debug\netcoreapp3.1\Account3.exe
+C:\codebitacademyfolder\C#\session3\Account3\bin\Debug\netcoreapp3.1\Account3.deps.json
+C:\codebitacademyfolder\C#\session3\Account3\bin\Debug\netcoreapp3.1\Account3.runtimeconfig.json
+C:\codebitacademyfolder\C#\session3\Account3\bin\Debug\netcoreapp3.1\Account3.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\session3\Account3\bin\Debug\netcoreapp3.1\Account3.dll
+C:\codebitacademyfolder\C#\session3\Account3\bin\Debug\netcoreapp3.1\Account3.pdb
+C:\codebitacademyfolder\C#\session3\Account3\obj\Debug\netcoreapp3.1\Account3.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\session3\Account3\obj\Debug\netcoreapp3.1\Account3.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\session3\Account3\obj\Debug\netcoreapp3.1\Account3.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\session3\Account3\obj\Debug\netcoreapp3.1\Account3.dll
+C:\codebitacademyfolder\C#\session3\Account3\obj\Debug\netcoreapp3.1\Account3.pdb

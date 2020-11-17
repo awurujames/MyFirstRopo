@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session17\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session17\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session17\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session17\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session17\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session17\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session17\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session17\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session17\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session17\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session17\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.pdb

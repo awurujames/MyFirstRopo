@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\session3\AccountTest4\bin\Debug\netcoreapp3.1\AccountTest4.exe
+C:\codebitacademyfolder\C#\session3\AccountTest4\bin\Debug\netcoreapp3.1\AccountTest4.deps.json
+C:\codebitacademyfolder\C#\session3\AccountTest4\bin\Debug\netcoreapp3.1\AccountTest4.runtimeconfig.json
+C:\codebitacademyfolder\C#\session3\AccountTest4\bin\Debug\netcoreapp3.1\AccountTest4.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\session3\AccountTest4\bin\Debug\netcoreapp3.1\AccountTest4.dll
+C:\codebitacademyfolder\C#\session3\AccountTest4\bin\Debug\netcoreapp3.1\AccountTest4.pdb
+C:\codebitacademyfolder\C#\session3\AccountTest4\obj\Debug\netcoreapp3.1\AccountTest4.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\session3\AccountTest4\obj\Debug\netcoreapp3.1\AccountTest4.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\session3\AccountTest4\obj\Debug\netcoreapp3.1\AccountTest4.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\session3\AccountTest4\obj\Debug\netcoreapp3.1\AccountTest4.dll
+C:\codebitacademyfolder\C#\session3\AccountTest4\obj\Debug\netcoreapp3.1\AccountTest4.pdb
